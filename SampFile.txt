@@ -1,0 +1,10 @@
+1 Raju 35
+2 Rasul 49
+3 Rora 98
+4 jiru 5
+5 moo 12
+6 pig 45
+7 tic 52
+8 mic 25
+9 coo 98
+10 cho 43
